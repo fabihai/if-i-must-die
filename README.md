@@ -1,5 +1,7 @@
 # "If I Must Die"
 
+<img src="/ifimustdie.jpg" width=560px>
+
 ## External Links
 Here you can find links to the [blog post](https://fabihai.github.io/), [demo video](https://www.youtube.com/watch?v=85yTASQBNr8), and [installation video](https://www.youtube.com/watch?v=BdbYyanjtaQ).
 
