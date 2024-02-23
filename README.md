@@ -16,7 +16,7 @@ After opening the code in the Arduino IDE...
 2. Add "https://dl.espressif.com/dl/package_esp32_index.json" under File -> Preferences -> Additional boards manager URLs
 3. Select TTGO T1 board under Tools -> Board -> esp32
 4. Make sure a port has been selected under Tools -> Port
-4. Open the file User_Select_Setup.h file. to find the location of your installed Arduino library, click File -> Preferences, and it should be listed under Sketchbook location. In this folder, go to libraries -> TFT_eSPI -> User_Setup_Select.h. In this file, comment out the default setup line "#include <User_Setup.h>" and uncomment the line "#include <User_Setups/Setup25_TTGO_T_Display.h>".
+4. Open the file User_Select_Setup.h file. To find the location of your installed Arduino library, click File -> Preferences, and it should be listed under Sketchbook location. In this folder, go to libraries -> TFT_eSPI -> User_Setup_Select.h. In this file, comment out the default setup line "#include <User_Setup.h>" and uncomment the line "#include <User_Setups/Setup25_TTGO_T_Display.h>".
 
 ## Technical Aspect
 
